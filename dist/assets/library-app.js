@@ -1145,6 +1145,6 @@ catch(err) {
 });
 
 if (!runningTests) {
-  require("library-app/app")["default"].create({"name":"library-app","version":"2.10.0+"});
+  require("library-app/app")["default"].create({"name":"library-app","version":"2.10.0+36ee5a2e"});
 }
 //# sourceMappingURL=library-app.map
